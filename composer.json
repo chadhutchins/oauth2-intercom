@@ -17,7 +17,7 @@
         "intercom"
     ],
     "require": {
-        "php": "^5.6|^7.0",
+        "php": "^5.6|^7.0|^8.0",
         "league/oauth2-client": "~2.3"
     },
     "require-dev": {
